@@ -1,11 +1,11 @@
-# Hair Type Classifier 💈🤖
+# Hair Type Classifier
 
 > **Status:** Operational 🟢  
 > **Tech Stack:** PyTorch | Computer Vision | CNN
 
 Um classificador de imagens robusto e direto ao ponto para distinguir entre cabelos **Lisos** e **Cacheados/Crespos**. Construído com PyTorch, focado em reprodutibilidade e eficiência.
 
-## 🏭 Arquitetura Industrial (The Engine)
+##  Arquitetura Industrial (The Engine)
 
 O "motor" desse projeto é uma CNN (Convolutional Neural Network) customizada, projetada para processamento rápido e eficaz.
 
@@ -47,4 +47,4 @@ O sistema executa em duas fases críticas:
 Ao final, o console cuspirá as métricas de performance (Loss & Accuracy) para auditoria.
 
 ---
-*Built for efficiency.* 🚀
+*Built for efficiency.* 
