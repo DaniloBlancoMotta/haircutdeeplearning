@@ -1,0 +1,19 @@
+# Dataset
+train/
+test/
+data.zip
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
